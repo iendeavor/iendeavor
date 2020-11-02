@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/iendeavor/iendeavor.svg)](http://hits.dwyl.com/iendeavor/iendeavor)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iendeavor.iendeavor)
 
 <!--
 **iendeavor/iendeavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
