@@ -30,6 +30,9 @@
   <li>
     <a href="https://chrome.google.com/webstore/detail/inspect-element/flgcpmeleoikcibkiaiindbcjeldcogp">inspect-element</a> - A Chrome extension used for helping frontend engineer to find out which element spaced out.
   </li>
+  <li>
+    <a href="https://iendeavor.github.io/git-cherry-picker/#/cherry-pick">git-cherry-picker</a> - A tool which can help maintainer to do git cherry-pick.
+  </li>
 </ul>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iendeavor&show_icons=true&locale=en&layout=compact" alt="iendeavor" /></p>
