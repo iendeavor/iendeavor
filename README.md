@@ -35,6 +35,6 @@
   </li>
 </ul>
 
-<a href="https://www.buymeacoffee.com/iendeavor"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=iendeavor&button_colour=BD5FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/iendeavor"><img src="https://img.buymeacoffee.com/button-api/?text=Help me keep working on OSS&emoji=&slug=iendeavor&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 > Follow your passion and keep striving.
