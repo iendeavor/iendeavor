@@ -4,13 +4,13 @@ I'm a web developer, a lot of my open source work is focusing on making daily de
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="20" height="20"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="20" height="20"/>
   </a>
   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="20" height="20"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
