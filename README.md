@@ -16,3 +16,8 @@ I'm a web developer, a lot of my open source work is focusing on making daily de
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>
   </a>
 </p>
+
+
+If those libraries helped you out feel free to donate:
+
+[![donate](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-orange)](https://www.paypal.com/paypalme/iendeavor)
