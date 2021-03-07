@@ -3,6 +3,8 @@
 
 <p align="center">A Web Developer, An Open Source Contributor & A Competitive Programmer</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=iendeavor&theme=vision-friendly-dark&hide=stars&show_icons=true"/>
+
 ### Langauges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/iendeavor?tab=repositories&q=&type=source&language=javascript)
