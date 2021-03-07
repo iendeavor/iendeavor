@@ -19,7 +19,7 @@
 
 ### Tools
 
-[![VS Code](https://img.shields.io/badge/VSCode-1f425f.svg)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/-VSCode-000?)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/-Vim-000?&logo=vim)](https://www.vim.org/)
 
 ### Projects
