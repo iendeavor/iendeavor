@@ -5,6 +5,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=iendeavor&theme=vision-friendly-dark&hide=stars&show_icons=true"/>
 
+[![cantunsee-8030-score](https://img.shields.io/badge/cantunsee-8030-lightseagreen)](https://cantunsee.space/)
+
 ### Langauges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/iendeavor?tab=repositories&q=&type=source&language=javascript)
