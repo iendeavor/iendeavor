@@ -3,7 +3,7 @@
 
 <p align="center">A Web Developer, An Open Source Contributor & A Competitive Programmer</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iendeavor&theme=vision-friendly-dark&hide=stars&show_icons=true"/>
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23000&qColor=%237a65ff&aColor=%23f7c15e&borderColor=%23fff">
 
 [![cantunsee-8030-score](https://img.shields.io/badge/cantunsee-8030-lightseagreen)](https://cantunsee.space/)
 
